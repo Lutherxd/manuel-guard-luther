@@ -1,0 +1,15 @@
+{
+"Token": "Ana main guard token",
+    "Kanal": "834335292726706237",
+"Tokens": [
+    "dağıtırıc tokenler buraya.",
+    "token2",
+    "token3",
+    "token4",
+    "token5",
+    "isterseniz dahada arttırabilirsiniz ama tavsiye etmem"
+    ],
+    "Guild": "sunucuID",
+"Izinliler": ["Buraya güvenli listedekiler Botlar Taç sahibi siz v.s","id", "id", "id", "id"],
+"botPrefix": "!"
+}
